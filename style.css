@@ -31,7 +31,7 @@ h3 {
 
 p {
   padding-top: 15px;
-  padding bottom: 15px;
+  padding-bottom: 15px;
 }
 
 .story-text {
@@ -43,12 +43,12 @@ p {
   margin: 20px;
   width: 100px;
   height: 160px;
-  length: 160px;
-  background-image: url(../images/"bloc-logo.png") no repeat top left;
+  background-image: url(../images."bloc-logo.png") no-repeat;
 }
 
 .large-pic {
   width: 100%;
+  background-image: url(../images."instagram-pic.jpg") no-repeat;
 }
 
 .medium-pic {
