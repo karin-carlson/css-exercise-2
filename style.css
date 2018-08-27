@@ -1,0 +1,106 @@
+body {
+  background-color: #7ebcd8;
+  color: #564231;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+  font-family: helvetica;
+}
+
+.container {
+  font-size: 16px;
+  font-family: helvetica;
+  padding: 100px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2em;
+  padding-bottom: 30px;
+  padding-top: 15px;
+}
+
+h3 {
+  font-size: 1em;
+  padding-bottom: 30px;
+}
+
+p {
+  padding-top: 15px;
+  padding bottom: 15px;
+}
+
+.story-text {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+  height: 160px;
+  length: 160px;
+  background-image: url(../images/"bloc-logo.png") no repeat top left;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  color: #F0D89E;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+  font-family: helvetica;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+a:link {
+  color: #ffc300;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #fa3c4c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: 	#d696bb;
+  text-decoration: none;
+}
+
+a:active {
+  color: #808080;
+  text-decoration: none;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
