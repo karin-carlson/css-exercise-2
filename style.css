@@ -42,13 +42,12 @@ p {
 .logo {
   margin: 20px;
   width: 100px;
-  height: 160px;
-  background-image: url(../images."bloc-logo.png") no-repeat;
+
 }
 
 .large-pic {
-  width: 100%;
-  background-image: url(../images."instagram-pic.jpg") no-repeat;
+  width: 50%;
+
 }
 
 .medium-pic {
